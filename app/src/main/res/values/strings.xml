@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lifecycle Test</string>
+    <string name="add_more">Add More</string>
+    <string name="title">Try close the app or rotate the phone</string>
+</resources>
